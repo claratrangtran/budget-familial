@@ -8,6 +8,9 @@ Ce projet a pour but de fournir une vue complète et structurée des finances d'
 
 L'objectif principal est de catégoriser les dépenses et les revenus pour identifier les tendances de consommation, les coûts mensuels récurrents, et les opportunités d'optimisation budgétaire.
 
+<img width="1306" height="721" alt="Capture d’écran 2025-11-27 152539" src="https://github.com/user-attachments/assets/f6839803-96ff-4dd6-b7cb-213cd48192ad" />
+
+
 🛠️ Outils & Technologies (FR)
 
 Source de Données : Fichiers CSV ou Excel extraits de comptes bancaires familiaux.
